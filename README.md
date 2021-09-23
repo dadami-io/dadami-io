@@ -1,4 +1,2 @@
-### Hi there 👋
-
-
-![Metrics](https://metrics.lecoq.io/dadami-io?template=classic&languages=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FSeoul)
+[![dadami-io's github stats](https://github-readme-stats.vercel.app/api?username=dadami-io&show_icons=true&hide_border=true)](https://github.com/dadami-io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadami-io&layout=compact)](https://github.com/dadami-io)
